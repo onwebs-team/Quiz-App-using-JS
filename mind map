@@ -1,0 +1,39 @@
+
+/** Done */
+-- create json object for question 
+--start creating html markup 
+-- add dummy data 
+-- create the styling 
+
+
+
+
+
+
+/** in progress */
+
+
+
+-- fetch number of guestion from json object 
+-- show question count + question category 
+-- show number of bullets depends on question count 
+-- set the number of right and wrong answers 
+-- create count down timer 
+-- fetch the question from the json Object 
+-- show the first question 
+-- check the answer and hide questin then show next one 
+-- if the count down timer end , mark the question as wrong and show next question 
+-- add class on bullet after answering the question 
+-- if the question finished show the result 
+
+
+ideas 
+* many json object and choose language 
+* add many questions and choose only 10 randomly 
+* randomize answer (shullf function )
+
+
+
+
+
+    
